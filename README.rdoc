@@ -1,2 +1,8 @@
 This is a simple blog website I created to start learning Rails. The project is part of the Odin Project tutorial: http://www.theodinproject.com/web-development-101/ruby-on-rails
+
 This particular project is from Jumpstart Lab: http://tutorials.jumpstartlab.com/projects/blogger.html
+
+This is a basic blog site which features:
+	- basic authentication / authors
+	- tags
+	- comments
